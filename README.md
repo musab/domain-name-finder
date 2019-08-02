@@ -1,16 +1,18 @@
-### available
+### Packages
+
+#### available
 
 - Checks for domain availabilty
 
-### coolify
+#### coolify
 
 - attemps to make your domain choice a bit cooler (ex: reddit -> rddt)
 
-### sprinkle
+#### sprinkle
 
 - add a word to your domain choice, from a list of predetermined options
 
-### synonyms
+#### synonyms
 
 - returns a list of possible synonyms using the API from words.bighugelabs.com
 
